@@ -1,4 +1,4 @@
-# 
+# Enhance Krita for PC | Krita for Windows with advanced Krita for PC | Krita for Windows Script | automated-actions + raw-file-support, the #1 script. Includes automated-actions
 
 
 
